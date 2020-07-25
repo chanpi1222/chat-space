@@ -1,7 +1,12 @@
 Rails.application.routes.draw do
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   devise_for :users 
   
+=======
+  devise_for :users
+
+>>>>>>> Stashed changes
 =======
   devise_for :users
 
